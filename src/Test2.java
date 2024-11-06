@@ -1,6 +1,5 @@
 public class Test2 {	
 	public static void main(String args[]) {
-		//change
 		String hungry = "yes";
 		if(hungry == "yes")
 			System.out.println("eat something....");
